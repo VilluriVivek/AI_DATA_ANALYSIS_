@@ -1,0 +1,7 @@
+name,age,salary,city,is_active
+Alice,30,50000.00,New York,True
+Bob,25,60000.50,Los Angeles,False
+Charlie,35,75000,Chicago,True
+David,40,100000,Houston,False
+Eve,22,45000,Miami,True
+Frank,28,55000,Dallas,True

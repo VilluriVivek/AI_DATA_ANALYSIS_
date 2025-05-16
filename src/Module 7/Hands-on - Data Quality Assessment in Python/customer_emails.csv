@@ -1,0 +1,7 @@
+customer_id,name,email
+1,Alice,alice@example.com
+2,Bob,invalid-email
+3,Charlie,charlie@test.org
+4,David,missing@dotcom
+5,Eve,eve@sub.domain.com
+6,Frank,frank.last@domain.co.in

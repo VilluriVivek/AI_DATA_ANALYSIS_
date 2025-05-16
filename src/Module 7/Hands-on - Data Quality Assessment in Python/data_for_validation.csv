@@ -1,0 +1,7 @@
+order_id,email,phone,date,product_code
+ABC-123,user@example.com,123-456-7890,2023-10-26,AB-1234-XY
+XYZ-456,invalid-email,(123) 456-7890,2023/10/26,AB-1234-12
+DEF-789,another@test.org,+1-123-456-7890 ext. 123,26.10.2023,AB-1234-123
+GHI-001,missing@dotcom,123.456.7890,2023-10-28,A-1234-X
+JKL-a23,user@sub.domain.com,1234567890,2023-10-29,AB-123-12
+MNO-987,first.last@domain.co.in,invalid-phone,2023-10-30,AB-1234-XYZ

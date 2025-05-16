@@ -1,0 +1,6 @@
+customer_id,name,email,phone,address,city
+1,Alice,alice@example.com,555-1234,123 Main St,New York
+2,Bob,,555-5678,,Los Angeles
+3,Charlie,charlie@example.com,,789 Pine Ln,
+4,David,david@example.com,555-9012,222 Elm St,Houston
+5,Eve,eve@example.com,555-2345,333 Oak Ave,Miami

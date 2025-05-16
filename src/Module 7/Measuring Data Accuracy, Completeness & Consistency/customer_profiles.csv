@@ -1,0 +1,6 @@
+customer_id,name,address,email,phone_number
+1,Alice,123 Main St,alice@example.com,555-1234
+2,Bob,,bob@example.com,555-5678
+3,Charlie,456 Oak Ave,,555-9012
+4,David,789 Pine Ln,david@example.com,
+5,Eve,,eve@example.com,555-2345

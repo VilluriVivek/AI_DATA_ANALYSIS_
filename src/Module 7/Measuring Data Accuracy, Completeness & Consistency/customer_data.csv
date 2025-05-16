@@ -1,0 +1,6 @@
+customer_id,name,age,city,email,phone_number
+1,Alice,25,New York,alice@example.com,123-456-7890
+2,Bob,30,London,,987-654-3210
+3,Charlie,,Paris,charlie@example.net,
+4,David,28,Tokyo,david@test.org,
+5,Eve,22,,New York,eve@example.com,555-123-4567

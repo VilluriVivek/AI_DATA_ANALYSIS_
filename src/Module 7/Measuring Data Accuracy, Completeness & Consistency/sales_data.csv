@@ -1,0 +1,6 @@
+order_id,customer_id,order_date,amount,status
+1,101,2024-01-15,100.0,Shipped
+2,102,2024-01-20,150.0,Shipped
+3,103,2024-02-10,,Pending
+4,104,2024-02-25,200.0,Shipped
+5,105,2024-03-05,250.0,Delivered
